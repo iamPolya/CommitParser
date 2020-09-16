@@ -1,6 +1,6 @@
 # CommitParser
 
-####This is a little parser for collecting commits from github.
+**This is a little parser for collecting commits from github.**
 
 **Simple structure:**
 
