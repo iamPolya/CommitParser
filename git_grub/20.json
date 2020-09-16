@@ -1,0 +1,1 @@
+{"files": [{"name": "css/style.css", "is_deleted": false, "new_rows": [".error-card {", " background-color: #009688;", "}", ""], "removed_rows": []}, {"name": "views/error.handlebars", "is_deleted": false, "new_rows": ["      <div class=\"card error-card darken-1\">"], "removed_rows": ["      <div class=\"card blue-grey darken-1\">"]}]}

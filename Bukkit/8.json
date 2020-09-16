@@ -1,0 +1,1 @@
+{"files": [{"name": "pom.xml", "is_deleted": false, "new_rows": ["    <version>1.7.10-R0.1-SNAPSHOT</version>"], "removed_rows": ["    <version>1.7.9-R0.3-SNAPSHOT</version>"]}]}

@@ -1,0 +1,1 @@
+{"files": [{"name": "models/Recipe.js", "is_deleted": false, "new_rows": ["// Create table in the DB using sync method"], "removed_rows": [""]}, {"name": "models/User.js", "is_deleted": false, "new_rows": ["// Create table in DB using sync method"], "removed_rows": [""]}]}

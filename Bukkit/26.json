@@ -1,0 +1,1 @@
+{"files": [{"name": "defaults/TeleportCommand.java", "is_deleted": false, "new_rows": ["            player.teleport(playerLocation, TeleportCause.COMMAND);"], "removed_rows": ["            player.teleport(playerLocation);"]}]}

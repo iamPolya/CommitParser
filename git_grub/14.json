@@ -1,0 +1,1 @@
+{"files": [{"name": "config/passport.js", "is_deleted": false, "new_rows": [" // Callback function when a user logs in through Google OAuth", " // Create a new object using data from the Google profile object", " // Search the Users table to identify if Google ID already exists. If the Google ID does not exist, create a new user in the DB"], "removed_rows": []}]}

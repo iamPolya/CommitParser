@@ -1,0 +1,1 @@
+{"files": [{"name": "defaults/DeopCommand.java", "is_deleted": false, "new_rows": [" for (OfflinePlayer player : Bukkit.getOperators()) {", " if (StringUtil.startsWithIgnoreCase(playerName, args[0])) {"], "removed_rows": [" for (OfflinePlayer player : Bukkit.getOfflinePlayers()) {", " if (player.isOp() && StringUtil.startsWithIgnoreCase(playerName, args[0])) {"]}]}

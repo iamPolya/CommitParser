@@ -1,0 +1,1 @@
+{"files": [{"name": "map/MapFont.java", "is_deleted": false, "new_rows": [" if (text.length() == 0){", " return 0;", "        }", "", "        result += text.length() - 1; // Account for 1px spacing between characters", ""], "removed_rows": []}]}
